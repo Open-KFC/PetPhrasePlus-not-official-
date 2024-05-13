@@ -38,7 +38,7 @@ public class ForgeConfigHandler {
         };
 
         @Config.LangKey("config.petphraseplus.general.punctuations")
-        public String punctuations = "!?.;:()~\"'[]{}！？。；：（）～“”‘’【】｛｝¡¿「」『』…—";
+        public String punctuations = "!?.()！？。（）~'\"“”‘’…—";
 
     }
 
