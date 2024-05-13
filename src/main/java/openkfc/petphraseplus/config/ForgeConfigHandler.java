@@ -1,12 +1,12 @@
-package openfkc.petphraseplus.config;
+package openkfc.petphraseplus.config;
 
 import net.minecraftforge.common.config.Config;
 import net.minecraftforge.common.config.ConfigManager;
 import net.minecraftforge.fml.client.event.ConfigChangedEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import openfkc.petphraseplus.core.PetPhrasePlus;
-import openfkc.petphraseplus.handler.ChatEventHandler;
+import openkfc.petphraseplus.core.PetPhrasePlus;
+import openkfc.petphraseplus.handler.ChatEventHandler;
 
 @Config(modid = PetPhrasePlus.MODID)
 public class ForgeConfigHandler {

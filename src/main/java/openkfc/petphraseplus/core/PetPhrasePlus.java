@@ -1,8 +1,8 @@
-package openfkc.petphraseplus.core;
+package openkfc.petphraseplus.core;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import openfkc.petphraseplus.handler.ChatEventHandler;
+import openkfc.petphraseplus.handler.ChatEventHandler;
 
 @Mod(
         modid = PetPhrasePlus.MODID,

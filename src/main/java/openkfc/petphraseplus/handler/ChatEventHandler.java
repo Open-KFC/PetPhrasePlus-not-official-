@@ -1,4 +1,4 @@
-package openfkc.petphraseplus.handler;
+package openkfc.petphraseplus.handler;
 
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.client.event.ClientChatEvent;
@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.EventPriority;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.relauncher.Side;
-import openfkc.petphraseplus.config.ForgeConfigHandler;
+import openkfc.petphraseplus.config.ForgeConfigHandler;
 
 import java.util.*;
 
