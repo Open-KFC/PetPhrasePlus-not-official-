@@ -1,0 +1,16 @@
+config.petphraseplus.general=General Config
+config.petphraseplus.general.tooltip=Just general configurations
+config.petphraseplus.general.enablePetPhrase=Enable Pet Phrase
+config.petphraseplus.general.enablePetPhrase.tooltip=Set to false to disable all features of this mod.
+config.petphraseplus.general.head=Head
+config.petphraseplus.general.head.tooltip=This text will be added at the beginning of the sentence.
+config.petphraseplus.general.tailInner=Tail(inner)
+config.petphraseplus.general.tailInner.tooltip=This text will be added at the ending of the sentence(before the punctuation).
+config.petphraseplus.general.tailOuter=Tail(outer)
+config.petphraseplus.general.tailOuter.tooltip=This text will be added at the ending of the sentence(after the punctuation).
+config.petphraseplus.general.mark=Identifier
+config.petphraseplus.general.mark.tooltip=If a sentence contains this sequence of characters, it will not have a pet-phrase added to it.(default : backquote)
+config.petphraseplus.general.replaces=Replaces
+config.petphraseplus.general.replaces.tooltip=In the sentence, the detected former element will be replaced with the specified latter one.(with double dashes -- separating the elements to be detected and replaced)
+config.petphraseplus.general.punctuations=Punctuations
+config.petphraseplus.general.punctuations.tooltip=When processing Tail(Inner), these punctuation marks will be skipped over.

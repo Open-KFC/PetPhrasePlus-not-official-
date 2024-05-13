@@ -1,0 +1,16 @@
+config.petphraseplus.general=常规配置
+config.petphraseplus.general.tooltip=只是普通的配置
+config.petphraseplus.general.enablePetPhrase=启用口癖
+config.petphraseplus.general.enablePetPhrase.tooltip=设置为false以禁用本模组所有特性。
+config.petphraseplus.general.head=句首
+config.petphraseplus.general.head.tooltip=这一段文字将会被添加到句首。
+config.petphraseplus.general.tailInner=句尾（符号内）
+config.petphraseplus.general.tailInner.tooltip=这一段文字将会被添加到句尾的标点符号前。
+config.petphraseplus.general.tailOuter=句尾（符号外）
+config.petphraseplus.general.tailOuter.tooltip=这一段文字将会被添加到句尾的标点符号后。
+config.petphraseplus.general.mark=标识符
+config.petphraseplus.general.mark.tooltip=一个句子中出现本符号时将不会被添加口癖（默认为反引号）。
+config.petphraseplus.general.replaces=成分替换
+config.petphraseplus.general.replaces.tooltip=句子中，检测到的前一种成分会被替换为指定的后一种。（使用双减号--隔开需检测和替换为的成分）
+config.petphraseplus.general.punctuations=标点符号
+config.petphraseplus.general.punctuations.tooltip=会在处理“句尾（符号外）”时越过这些标点符号。

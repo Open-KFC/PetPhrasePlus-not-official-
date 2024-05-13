@@ -1,0 +1,16 @@
+[
+{
+  "modid": "petphraseplus",
+  "name": "PetPhrasePlus(not-official)",
+  "description": "PetPhrasePlus(not-official) for 1.12.2.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["OpenKFC"],
+  "credits": "WolfGenerals(for open-sourcing PetPhrasePlus), Nova-Committee(for open-sourcing PetPhrase)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
