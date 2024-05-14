@@ -13,4 +13,4 @@ config.petphraseplus.general.mark.tooltip=一个句子中出现本符号时将�
 config.petphraseplus.general.replaces=成分替换
 config.petphraseplus.general.replaces.tooltip=句子中，检测到的前一种成分会被替换为指定的后一种。（使用双减号--隔开需检测和替换为的成分）
 config.petphraseplus.general.punctuations=标点符号
-config.petphraseplus.general.punctuations.tooltip=会在处理“句尾（符号外）”时越过这些标点符号。
+config.petphraseplus.general.punctuations.tooltip=会在处理“句尾（符号内）”时越过这些标点符号。
